@@ -6,7 +6,7 @@
 
 //O(1) solution for 'add'
 //O(n) solution for 'remove' and 'contains'
-//The time complexity for 'remove' and 'contains' can be improved by using a linked list
+//The time complexity for 'remove' can be improved by using a linked list
 
 class HashSet {
     constructor() {
